@@ -1,6 +1,7 @@
-<div>Hello world</div>
-New world
-<div> goodbye</div>
-another world
-another change
-in the life
+const num1 = 5;
+const num2 = 3;
+
+// add two numbers
+const sum = num1 + num2;
+
+// display the sumconsole.log('The sum of ' + num1 + ' and ' + num2 + ' is: ' + sum);
